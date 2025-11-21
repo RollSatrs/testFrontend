@@ -4,7 +4,7 @@ import Header from "./components/header";
 export default function Home() {
   return (
     <div>
-      
+
       <h1>oekwererkwporewpr</h1>
     </div>
   );
